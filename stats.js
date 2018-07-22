@@ -1431,6 +1431,4 @@ client.on("message", message => {
 });
 client.on('error', err => console.error('Uncaught Promise Rejection: \n${err.stack}'));
 //Test Bot
-client.login('MzYxMjExNjAzNDg1NzIwNTc2.DKg0Rg.3Le3jKq3NVclz8TfeFr_ItwC8m0');
-//MH
-//client.login("Mzg1OTg5NDcyOTYzMDAyMzgx.DQJYPQ.rQ-gFS7II8pi8j9uPP6dclw6prQ");
+client.login('token_here');
